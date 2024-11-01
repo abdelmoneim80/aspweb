@@ -1,0 +1,14 @@
+E:\asproject\bin\Debug\net9.0\asproject.exe
+E:\asproject\bin\Debug\net9.0\asproject.deps.json
+E:\asproject\bin\Debug\net9.0\asproject.runtimeconfig.json
+E:\asproject\bin\Debug\net9.0\asproject.dll
+E:\asproject\bin\Debug\net9.0\asproject.pdb
+E:\asproject\obj\Debug\net9.0\asproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\asproject\obj\Debug\net9.0\asproject.AssemblyInfoInputs.cache
+E:\asproject\obj\Debug\net9.0\asproject.AssemblyInfo.cs
+E:\asproject\obj\Debug\net9.0\asproject.csproj.CoreCompileInputs.cache
+E:\asproject\obj\Debug\net9.0\asproject.dll
+E:\asproject\obj\Debug\net9.0\refint\asproject.dll
+E:\asproject\obj\Debug\net9.0\asproject.pdb
+E:\asproject\obj\Debug\net9.0\asproject.genruntimeconfig.cache
+E:\asproject\obj\Debug\net9.0\ref\asproject.dll
